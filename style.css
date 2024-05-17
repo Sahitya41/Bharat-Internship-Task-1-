@@ -988,7 +988,7 @@ margin: 40px 10px;
 
 .contacts .contacts-content .right form .field{
 
-    display: flex;
+    display:flex;
 
 }
 
@@ -1042,7 +1042,7 @@ margin: 40px 10px;
 
 .contacts .rightform .button{
 
-    width: 147px;
+    width: 100px;
 
     height: 100%;
 
