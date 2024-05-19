@@ -16,7 +16,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing", {
 
-        strings: ["Frontend Developer", "Designer"],
+        strings: ["Frontend Developer", "Web Designer"],
 
         typeSpeed: 100,
 
